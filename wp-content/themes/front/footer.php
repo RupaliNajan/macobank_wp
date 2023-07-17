@@ -19,19 +19,19 @@
 											<div class="col-md-4 mb-md-0 mb-4">
 												<h2 class="footer-heading">Quick Links</h2>
 												<ul class="list-unstyled">
-						              <li><a href="#" class="py-1 d-block">Market Analysis</a></li>
+						              <li><a href="#" class="py-1 d-block">About us</a></li>
 						              <li><a href="#" class="py-1 d-block">Accounting Advisor</a></li>
 						              <li><a href="#" class="py-1 d-block">General Consultancy</a></li>
 						              <li><a href="#" class="py-1 d-block">Structured Assestment</a></li>
 						            </ul>
 											</div>
 											<div class="col-md-4 mb-md-0 mb-4">
-												<h2 class="footer-heading">Discover</h2>
+												<h2 class="footer-heading">Contact</h2>
 												<ul class="list-unstyled">
-						              <li><a href="#" class="py-1 d-block">About us</a></li>
-						              <li><a href="#" class="py-1 d-block">Contract us</a></li>
-						              <li><a href="#" class="py-1 d-block">Terms &amp; Conditions</a></li>
-						              <li><a href="#" class="py-1 d-block">Policies</a></li>
+						              <li><a href="#" class="py-1 d-block">Mantralaya Main Building, Ground Floor, Madam Cama Road, Mantralaya Mumbai - 400032</a></li>
+						              <li><a href="#" class="py-1 d-block"> 022-22025452, 022-22812046</a></li>
+						              <li><a href="#" class="py-1 d-block">info@mantralayacoopbank.com</a></li>
+						              <li><a href="#" class="py-1 d-block">Mon to Sat: 10:00 am to 5.00 pm and 2nd and 4th Saturday Close</a></li>
 						            </ul>
 											</div>
 											
@@ -43,7 +43,7 @@
 						<div class="row mt-md-5">
 							<div class="col-md-12">
 								<p class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-					  Copyright &copy;<script>document.write(new Date().getFullYear());</script>  All Rights are Reserved <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank"> MACO Bank</a>
+					  Copyright &copy;<script>document.write(new Date().getFullYear());</script>  All Rights are Reserved <i class="fa fa-heart" aria-hidden="true"></i> by <a href="http://localhost/wp_macobank/" target="_blank"> MACO Bank</a>
 					  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 							</div>
 						</div>

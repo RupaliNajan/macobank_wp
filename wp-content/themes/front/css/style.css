@@ -3384,9 +3384,23 @@ input[type="button"].btn-block {
 .menu-cust li{
          list-style: none;
          margin: 0px 20px;
+         position :relative;
+
 }
 
+.sub-menu{
+        position:absolute; 
+        /*top: 100%;*/
+        background-color: gray;
+        visibility: hidden;
+        opacity: 0;
+        border: 1px solid black;
+      }
 
+.menu-cust>li:hover .sub-menu{
+        opacity: 1;
+        visibility:visible;
+}
 
 .nav-link {
   display: block;
@@ -9707,4 +9721,9 @@ textarea.form-control {
 
     .mb .mb-1{
         color: black;
+    }
+    .new_section{
+       padding: 50px;
+       size: 50px;
+       color: red;
     }

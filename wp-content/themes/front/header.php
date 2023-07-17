@@ -30,7 +30,7 @@
 								<div class="col-md-6 d-flex align-items-center">
 									<p class="mb-0 phone pl-md-2">
 										<a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> + 91 22 2202 5452</a> 
-										<a href="#"><span class="fa-sharp fa-solid fa-envelope"></span> youremail@email.com</a>
+										<a href="#"><span class="fa-sharp fa-solid fa-envelope"></span>  info@mantralayacoopbank.com</a>
 
 									</p>
 								</div>
@@ -75,7 +75,7 @@
 	    <div class="container">
 	    	 <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav m-auto">
-	        	<!-- <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+	        	<!-- <li class="nav-item active"></li>
 	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
 	        	<li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="cases.html" class="nav-link">Case Study</a></li>
